@@ -2,9 +2,9 @@ Name of Quantlet:    'MPF-Electricity_Distribution'
 
 Published in:        'Multivariate probabilistic forecasting of electricity prices with trading applications'
 
-Description:         'This Quantlet  vizualises   an empirical distribution of three electricity prices: day ahead auctions NordPool and EPEX and system. The code reproduces Figures 2, 3, 5 and 6 of the manuscript. Data is not provided due to NDA.'
+Description:         'This Quantlet visualises an empirical distribution of three electricity prices: day ahead auctions NordPool and EPEX, and system prices. The code reproduces Figures 2, 3, 5 and 6 of the manuscript. Data is not provided due to NDA.'
 
-Keywords:            'qq-plot, empirical distribution, electricity, JohnsonSU, normal distrubtion, histogram'
+Keywords:            'qq-plot, empirical distribution, electricity, JohnsonSU, normal distribution, histogram'
 
 Author:              Ilyas Agakishiev, Karel Kozmík
 

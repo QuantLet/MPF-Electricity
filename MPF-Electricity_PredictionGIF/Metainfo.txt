@@ -1,0 +1,11 @@
+Name of Quantlet:    'MPF-Electricity_PredictionGIF'
+
+Published in:        'Multivariate probabilistic forecasting of electricity prices with trading applications'
+
+Description:         'This Quantlet visualises probabilistic forecasting with different methods. Outputs a movie in GIF format. Data is not provided due to NDA.'
+
+Keywords:            'visualization, MLP, quantile regression, LASSO, LSTM, empirical distribution, electricity, JohnsonSU'
+
+Author:              Ilyas Agakishiev
+
+

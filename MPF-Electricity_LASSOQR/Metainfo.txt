@@ -1,0 +1,11 @@
+Name of Quantlet:    'MPF-LASSOQR'
+
+Published in:        'Multivariate probabilistic forecasting of electricity prices with trading applications'
+
+Description:         'This Quantlet calculates the quantile regression for 99 quantiles, the predictions are then used to fit to Johnson's SU distribution. Data is not provided due to NDA.'
+
+Keywords:            'quantile regression, LASSO, empirical distribution, electricity, JohnsonSU'
+
+Author:              Ilyas Agakishiev
+
+

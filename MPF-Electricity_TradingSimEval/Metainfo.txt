@@ -1,0 +1,11 @@
+Name of Quantlet:    'MPF-Electricity_TradingSimEval'
+
+Published in:        'Multivariate probabilistic forecasting of electricity prices with trading applications'
+
+Description:         'This Quantlet generates simulations based on probabilistic predictions for DMLP, LASSO QR and the benchmark. Those are used for a sample trading strategy. Data is not provided due to NDA.'
+
+Keywords:            'Monte-Carlo simulation, trading, empirical distribution, electricity, JohnsonSU'
+
+Author:              Ilyas Agakishiev, Karel Kozmík
+
+
