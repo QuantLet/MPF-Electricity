@@ -1,0 +1,11 @@
+Name of Quantlet:    'MPF-Electricity_JohnsonSUSim'
+
+Published in:        'Multivariate probabilistic forecasting of electricity prices with trading applications'
+
+Description:         'This Quantlet simulates and plots the Johnson's SU distribution with different parameters.'
+
+Keywords:            'simulation, JohnsonSU, normal distribution, plot, electricity prices'
+
+Author:              Ilyas Agakishiev, Karel Kozmík
+
+
